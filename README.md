@@ -1,5 +1,4 @@
 
-**[COMBINE 2020](COMBINE2020.md)**
 
 # Coordinating standards for modeling in biology
 
@@ -13,7 +12,7 @@
   
   <p>To receive announcements from COMBINE, subscribe to the Twitter feed <a href="https://twitter.com/combine_coord">COMBINE news</a>.</p> 
   
-  <p>To discuss the goals, organization and operation of COMBINE, subscribe to <a href="https://groups.google.com/d/forum/combine-discuss">COMBINE discuss</a> mailing list.</p> <p>To report issues about the co.mbine.org website, send a mail to combine-support @ googlegroups.com</p>. 
+  <p>To discuss the goals, organization and operation of COMBINE, subscribe to <a href="https://groups.google.com/d/forum/combine-discuss">COMBINE discuss</a> mailing list.</p> <p>To report issues about the co.mbine.org website, send a mail to combine-support @ googlegroups.com.</p>
   
   
   
