@@ -1,3 +1,6 @@
+
+**[COMBINE 2020](COMBINE2020.md)**
+
 # Coordinating standards for modeling in biology
 
 <p>The "COmputational Modeling in BIology NEtwork" (COMBINE) is an initiative to coordinate the development of the various community <a  href="http://co.mbine.org/Standards "> standards and formats</a>for computational models. 
