@@ -24,15 +24,52 @@
  Tuesday, together with a live question and answer session with the speaker, at a different time shifted for a different time zone. Wednesday to 
  Friday will be for breakout sessions and tutorials.<br /><br /> Further details about the program will be announced soon. </p> 
  
-## Registration 
+## Important dates
+
+Registration deadline: 1st Sept 2020
+Abstract/breakout/tutorial submission deadline:  1st Sept 2020
+Notification of acceptance of abstracts/breakout/tutorial: 14th Sep 2020
+COMBINE Workshop: 5th-9th Oct 2020 
  
- <p>COMBINE 2020 will be free, but registration is required. <br /><br /> 
- <b><font color="red">Registration will open at the end of July</font></b> and be kept open until the conference, however, to be able to consider your 
- availability we need your registration before Sept. 1, 2020. Please note that this is a very strict deadline – you can register later, but we will not 
- be able to take your availability into account if you do so. We would like to ask you to indicate in the registration form your available times for 
- attendance, so we may plan a schedule in which participation is maximized.<br /><br /> Also, the submission of abstracts for talks, breakouts, and 
- tutorials will also be on Sept. 1, 2020. Please plan accordingly.<br /></p> 
- 
+## Registration
+
+Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+
+Registration: https://forms.gle/3Netp5WBCupeeu1H6
+
+## Call for Abstracts
+
+We solicit high-quality abstracts, to be refereed by the COMBINE Coordinators, for online presentation at the Workshop. Abstracts will appear on the COMBINE website only, there will be no formal publication.
+
+Abstract submissions: https://forms.gle/gKVEWxV6mkYuwa8VA
+
+## Call for Breakout Sessions
+
+All attendees can suggest breakout sessions for detailed discussions of certain aspects of one or several of the COMBINE standard(s), discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below.
+
+Breakout suggestions: https://forms.gle/YCN6PtN5Ws3sSFPWA
+
+## Call for Tutorials
+
+If there are tutorials on tools, standards or resources (or any other topic) which would be relevant for the COMBINE community (see Topics of Interest below), these can be proposed at the link below (same link as for breakout sessions).
+
+Tutorial suggestions: https://forms.gle/YCN6PtN5Ws3sSFPWA
+
+## Topics of interest
+
+Topics of interest for the meeting include, but are not limited to:
+
+- Data exchange, pipelines and model standards for systems and synthetic biology
+- Visualization and graphical notation standards for systems and synthetic biology
+- Standards for sharing and analysing biological pathway data
+- Standards for computational biological models and modelling support
+- Metadata description and model annotation in COMBINE standard formats
+- Implementation of COMBINE standards in tools, databases and other resources
+- Integrated model and data management for systems and synthetic biology
+- Standardization of Artificial Intelligence approaches in biological modelling
+- Emerging standardization needs and multicellular modeling
+- Community aspects of COMBINE 
+
 ## Organisers 
  
  <p>The COMBINE 2020 virtual meeting is organised by the COMBINE coordinators (see the 
