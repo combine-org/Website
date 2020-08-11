@@ -35,25 +35,25 @@ COMBINE Workshop: 5th-9th Oct 2020
 
 Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
 
-Registration: https://forms.gle/3Netp5WBCupeeu1H6
+Registration is open [here](https://forms.gle/3Netp5WBCupeeu1H6).
 
 ## Call for Abstracts
 
 We solicit high-quality abstracts, to be refereed by the COMBINE Coordinators, for online presentation at the Workshop. Abstracts will appear on the COMBINE website only, there will be no formal publication.
 
-Abstract submissions: https://forms.gle/gKVEWxV6mkYuwa8VA
+Abstract submissions is open [here](https://forms.gle/gKVEWxV6mkYuwa8VA).
 
 ## Call for Breakout Sessions
 
 All attendees can suggest breakout sessions for detailed discussions of certain aspects of one or several of the COMBINE standard(s), discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below.
 
-Breakout suggestions: https://forms.gle/YCN6PtN5Ws3sSFPWA
+Breakout suggestions can be added [here](https://forms.gle/YCN6PtN5Ws3sSFPWA).
 
 ## Call for Tutorials
 
 If there are tutorials on tools, standards or resources (or any other topic) which would be relevant for the COMBINE community (see Topics of Interest below), these can be proposed at the link below (same link as for breakout sessions).
 
-Tutorial suggestions: https://forms.gle/YCN6PtN5Ws3sSFPWA
+Tutorial suggestions can be added [here](https://forms.gle/YCN6PtN5Ws3sSFPWA).
 
 ## Topics of interest
 
