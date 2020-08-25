@@ -1,5 +1,5 @@
 
-# NOTE: Work in progress!! Please go to http://co.mbine.org
+# NOTE: Work in progress!! Please go to [http://co.mbine.org](http://co.mbine.org)
 
 # Coordinating standards for modeling in biology
 
