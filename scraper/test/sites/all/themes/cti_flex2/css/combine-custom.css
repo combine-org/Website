@@ -1,0 +1,24 @@
+
+/**
+ * Customization for the COMBINE web site
+ *
+ *
+ */
+
+/*
+ * Fonts
+ *
+ * Our font size and line height declarations are based on the following ALA
+ * article:
+ *   http://www.alistapart.com/articles/howtosizetextincss
+ *
+ * All modern browsrs use a 16px default font size. Specifying the font-size
+ * and line-height in ems (relative to the 16px default font) allows the user
+ * to resize the font in the browser and produces the most consistent results
+ * across different browsers.
+ */
+
+h3 {
+  font-size: 120%;
+}
+
